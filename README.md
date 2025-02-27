@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I'm Filip. I am a Senior Software Developer.
+
+- Working at Adobe on Adobe Experience Manager as a Cloud Service.
+- Previously at Żabka Nano, ZAGENO, Allegro
+
 <!--
 **sergot/sergot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
